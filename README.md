@@ -25,7 +25,7 @@ My mission is to build tools that make opportunity accessible, one project at a 
 - Exploring **backend infrastructure** and **systems-level design**
 - Learning how to get better at **GitHub collaboration** and building in public
 
-- ### 🎮 Outside of tech
+- ### Outside of tech
 
 When I’m not coding, I’m either **hanging out with my family**, **watching anime**, **playing video games**, **playing basketball**, or **in the gym**.
 
