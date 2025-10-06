@@ -1,6 +1,6 @@
 ## Hey there, I'm Alex! 👋
 
-I'm **Alex**, a **Computer Science student at Stanford University** passionate about building meaningful tools.**
+I'm **Alex**, a **Computer Science student at Stanford University** passionate about building meaningful tools.
 
 ### What drives me:
 
