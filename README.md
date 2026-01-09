@@ -4,8 +4,7 @@ I'm **Alex**, a **Computer Science student at Stanford University** passionate a
 
 ### What drives me:
 
-I’m a first-generation, low-income student who believes **discipline and curiosity can change everything**.  
-My mission is to build tools that make opportunity accessible, one project at a time.  
+I’m a first-generation, low-income student who believes curiosity and wonder can change everything.
 
 ### Things I code with:
 
@@ -21,13 +20,12 @@ My mission is to build tools that make opportunity accessible, one project at a 
 
 ### What I'm working on
 
-- Building a **Time Logger** to track study & gym sessions  
-- Exploring **backend infrastructure** and **systems-level design**
-- Learning how to get better at **GitHub collaboration** and building in public
+- Building a Wordle game to explore Git and GitHub interactions and building in public
+- Exploring backend infrastructure and systems-level design
 
 - ### Outside of tech
 
-When I’m not coding, I’m either **hanging out with my family**, **watching anime**, **playing video games**, **playing basketball**, or **in the gym**.
+When I’m not coding, I’m either hanging out with my family, watching anime, playing video games, playing basketball, or in the gym.
 
 
  ### Where to find me:
