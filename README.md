@@ -21,7 +21,8 @@ I’m a first-generation, low-income student who believes curiosity and wonder c
 ### What I'm working on
 
 - Building a Wordle game to explore Git and GitHub interactions and building in public
-- Exploring backend infrastructure and systems-level design
+- Exploring full-stack development
+- Learning about operating systems implementations
 - Exploring machine learning concepts
 
 - ### Outside of tech
